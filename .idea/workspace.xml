@@ -9,13 +9,16 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Completed module">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_22" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="15e4b8e70806" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -34,6 +37,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectConfigurationFiles">
@@ -54,16 +58,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="15e4b8e70806" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-26T16:27:10.134Z" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded" />
     <property name="recommended.upgrade.last.time.stamp" value="1601134681101" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -187,41 +191,49 @@
     <option name="LAST_COMMIT_MESSAGE" value="Completed module" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="232" y="150" key="#Notifications" timestamp="1601206957513">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="150" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1601206957513" />
+    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1601136651984">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1601136651984" />
     <state x="358" y="259" width="578" height="532" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601123397163">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="358" y="259" width="578" height="532" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.984@0.0.1280.984" timestamp="1601123397163" />
-    <state x="168" y="86" key="CommitChangelistDialog2" timestamp="1601135473317">
+    <state x="168" y="86" key="CommitChangelistDialog2" timestamp="1601207618962">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="168" y="86" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1601135473317" />
+    <state x="168" y="86" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1601207618962" />
     <state x="135" y="73" width="799" height="817" key="FileChooserDialogImpl" timestamp="1601126644645">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="135" y="73" width="799" height="817" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1601126644645" />
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1601135416247">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1601207671131">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1601135416247" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1601135416247">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1601207671131" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1601207671131">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1601135416247" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1601135416247">
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1601207671131" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1601207671131">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1601135416247" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1601135416247">
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1601207671131" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1601207671131">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1601135416247" />
-    <state x="141" y="134" key="SettingsEditor" timestamp="1601125156394">
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1601207671131" />
+    <state x="141" y="134" key="SettingsEditor" timestamp="1601207662150">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="141" y="134" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1601125156394" />
-    <state x="196" y="112" key="com.intellij.ide.util.TipDialog" timestamp="1601123944014">
+    <state x="141" y="134" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1601207662150" />
+    <state x="196" y="112" key="com.intellij.ide.util.TipDialog" timestamp="1601207804692">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="196" y="112" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1601123944014" />
+    <state x="196" y="112" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1601207804692" />
   </component>
 </project>
