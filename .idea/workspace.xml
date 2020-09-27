@@ -101,6 +101,22 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -176,6 +192,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
@@ -249,22 +266,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="135" y="73" width="799" height="817" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1601126644645" />
-    <state width="1237" height="289" key="GridCell.Tab.0.bottom" timestamp="1601214180117">
+    <state width="1237" height="289" key="GridCell.Tab.0.bottom" timestamp="1601215490470">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="289" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1601214180117" />
-    <state width="1237" height="289" key="GridCell.Tab.0.center" timestamp="1601214180117">
+    <state width="1237" height="289" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1601215490470" />
+    <state width="1237" height="289" key="GridCell.Tab.0.center" timestamp="1601215490470">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="289" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1601214180117" />
-    <state width="1237" height="289" key="GridCell.Tab.0.left" timestamp="1601214180116">
+    <state width="1237" height="289" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1601215490470" />
+    <state width="1237" height="289" key="GridCell.Tab.0.left" timestamp="1601215490470">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="289" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1601214180116" />
-    <state width="1237" height="289" key="GridCell.Tab.0.right" timestamp="1601214180117">
+    <state width="1237" height="289" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1601215490470" />
+    <state width="1237" height="289" key="GridCell.Tab.0.right" timestamp="1601215490470">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="289" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1601214180117" />
+    <state width="1237" height="289" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1601215490470" />
     <state x="279" y="202" key="RollbackChangesDialog" timestamp="1601213328454">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
